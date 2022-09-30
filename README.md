@@ -1,6 +1,6 @@
 # ApacheServerChallenge
 
-create a Dockerfile within that folder with the vi editor: 
+create a Dockerfile within this directory with the vi editor: 
 
 $ vi Dockerfile
 
